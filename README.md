@@ -1,2 +1,2 @@
-# auto_differentiation
-Implementation of auto differentiation in python
+# CNN
+Implementation of CNN in keras tensorflow
