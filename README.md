@@ -1,2 +1,2 @@
 # CNN
-Implementation of CNN in keras tensorflow
+Implementation of CNN in pytorch
