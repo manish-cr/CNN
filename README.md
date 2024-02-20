@@ -6,3 +6,5 @@ Implementation of CNN in pytorch
 - optimizer.py : include get_optimizer() method to return optimizer as torch.optim
 - dataset.py : include get_dataset() method to return dataset as torch.Dataset
 - misc.py : store any usuful methods whatever you want
+
+Let's enjoy!!
