@@ -28,7 +28,7 @@ def get_dataset(dataset:str, dir="./data"):
         
         test =  datasets.CIFAR10(
             root=dir, 
-            train=True, 
+            train=False, 
             download=True, 
             transform=transform)
         
